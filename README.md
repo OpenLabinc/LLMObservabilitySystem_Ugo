@@ -1,12 +1,13 @@
 # LLMObservabilitySystem_Ugo
 
+Coursework root for **LLM Observability System** (Group Ugo).
 
-Project Name: **LLM Observability System**
+## Active product: Ile
 
-Group Name: **Ugo**
+Nigeria real-estate marketplace (Oja-adapted) lives in [`ile/`](./ile/).
 
-Main Participant Name: 
-- **Ugochukwu Osuji**
+```bash
+cd ile && npm install && npm run dev
+```
 
-
-
+See `ile/README.md` and the product plan in the project docs store.
