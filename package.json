@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx server/index.ts",
-    "web": "vite",
+    "dev": "tsx server/dev.ts",
     "start": "tsx server/index.ts",
     "test": "tsx --test server/*.test.ts",
     "typecheck": "tsc --noEmit",
