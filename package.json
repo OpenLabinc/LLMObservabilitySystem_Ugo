@@ -1,0 +1,34 @@
+{
+  "name": "supercal",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server/index.ts",
+    "web": "vite",
+    "start": "tsx server/index.ts",
+    "test": "tsx --test server/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.6",
+    "googleapis": "^160.0.0",
+    "hono": "^4.9.8",
+    "luxon": "^3.7.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "surrealdb": "^2.0.0",
+    "tsdav": "^2.1.5"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.7.1",
+    "@types/node": "^24.5.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.0.4",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7"
+  }
+}
