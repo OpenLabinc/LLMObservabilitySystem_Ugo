@@ -1,11 +1,12 @@
 # LLMObservabilitySystem_Ugo
 
-Coursework root for **LLM Observability System** (Group Ugo).
 
-## Active product: Ile
+Project Name: **LLM Observability System**
 
-Airbnb-style Nigeria stays marketplace (all 37 states, NIPOST postcodes) lives in [`ile/`](./ile/).
+Group Name: **Ugo**
 
-```bash
-cd ile && npm install && npm run dev
-```
+Main Participant Name: 
+- **Ugochukwu Osuji**
+
+
+
